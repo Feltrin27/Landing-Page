@@ -15,14 +15,11 @@
   justify-content: center;
 }
 
-.intro-text-content h2{
-  line-height: 1.2;
-  font-size: 6rem;
-  margin-bottom: 5rem;
-  text-transform: uppercase;
-}
-
 .intro-img img{
   max-width: 100%;
   height: auto;
+}
+
+.top3-content{
+  height: 100vh;
 }
