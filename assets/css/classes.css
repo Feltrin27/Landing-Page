@@ -13,7 +13,7 @@
 .main-content{
   max-width: 120rem;
   margin: 0 auto;
-  padding: 8rem var(--gap);
+  padding: 1rem var(--gap);
 }
 
 .section {
