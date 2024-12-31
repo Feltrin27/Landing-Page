@@ -1,6 +1,7 @@
 *{
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 html {
@@ -57,7 +58,7 @@ p{
   overflow: hidden;
   overflow-x: auto;
   max-width: 500px;
-  margin: auto;
+  margin: 3rem;
 }
 
 table{
