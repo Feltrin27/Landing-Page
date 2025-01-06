@@ -57,7 +57,7 @@ p{
   display: flex;
   overflow: hidden;
   overflow-x: auto;
-  max-width: 500px;
+  max-width: 450px;
   margin: 3rem;
 }
 
